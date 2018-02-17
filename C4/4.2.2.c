@@ -13,7 +13,7 @@ int main(void)
 	scanf("%lf",&num);
 	ans = num*num*PI;
 	printf("So the answer is: %f\n",ans);
-	printf("Fu@k you");
+	printf("Fu@k you!");
 
 	getchar();
 	getchar();
