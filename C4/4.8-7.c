@@ -5,7 +5,7 @@ int main(void) {
     int n_fn, n_sn, w1, w2;
 
     printf("Please enter your name: \n");
-    scanf("%s %s", fn, sn);                      //输入自动跳过空白
+    scanf("%s %s", fn, sn);                      //输入已经包含了一个空格
     w1 = n_fn = strlen(fn);
     w2 = n_sn = strlen(sn);
 
