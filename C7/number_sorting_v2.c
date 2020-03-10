@@ -10,6 +10,8 @@ int main(void) {
 	int length = strlen(str);  //得到字符串的长度 
 	printf("\n");
 	
+	printf("输入的位数有%d位 \n", length);
+	
 	//正序输出
 	puts("正序输出");
 	for (int i = 0; i < length; i++)
