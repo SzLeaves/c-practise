@@ -45,7 +45,7 @@
 
 再新建一个源文件  
 **这里一定要注意，你保存的源代码文件后缀必须是`.c`**  
-这样编译器才不会调用C++的编译器来进行编译  
+这样软件才不会调用C++的编译器来进行编译  
 
 ![011.jpg](https://gitee.com/szleaves/C-Practise/raw/master/VC2010-C/pictures/011.jpg)  
 ![012.jpg](https://gitee.com/szleaves/C-Practise/raw/master/VC2010-C/pictures/012.jpg)  
