@@ -46,7 +46,7 @@
 *.mod*
 *.cmd
 .tmp_versions/
-.vscode
+.vscode/
 output/
 modules.order
 Module.symvers
